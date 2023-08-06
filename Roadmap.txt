@@ -3,4 +3,5 @@ https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesi
 First code I ran:
 https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/DL2/Bayesian_Neural_Networks/dl2_bnn_tut1_students_with_answers.html
 
-
+Feature selection using bayesian model:
+https://towardsdatascience.com/bayesian-model-selection-as-a-feature-reduction-technique-70d75386eabc
